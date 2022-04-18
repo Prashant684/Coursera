@@ -1,2 +1,2 @@
 # Coursera
-NTML, CSS, JAVA SCRPIT repository.
+HTML, CSS, JAVA SCRPIT repository.
